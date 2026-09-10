@@ -6,7 +6,7 @@ MacOS/Win-стильный инструмент для активации iPhone
 > Все действия выполняются на ваш страх и риск. Разработчик не несет ответственности за потерю данных, повреждение устройства или юридические последствия.
 
 <p align="center">
-  <img src="screenshot.png" alt="A12+ Activator Platinum" width="800"/>
+  <img src="image_2026-09-10_22-22-42.png" alt="A12+ Activator Platinum" width="800"/>
 </p>
 
 ## Возможности
